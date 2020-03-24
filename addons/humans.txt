@@ -1,0 +1,22 @@
+/* TEAM */
+
+	Esteban Dalla Rosa
+	Web Designer
+	Contact: esteban [at] inamba [dot] com
+	Facebook: @edallarosa
+	Instagram: @edallarosa
+
+/* THANKS */
+	
+/* SITE */
+
+	Last update: 2020/03/24
+	Language: Castellano
+	Doctype: 
+	IDE: 
+	
+	
+	
+	More info, contact us personally info [at] inamba [dot] com
+	
+	Robots, visit https://blauceldona.com/robots.txt
